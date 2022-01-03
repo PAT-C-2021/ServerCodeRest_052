@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerCodeRest_20190140052_OkkyHaryanto", "ServerCodeRest_20190140052_OkkyHaryanto\ServerCodeRest_20190140052_OkkyHaryanto.csproj", "{96F857A2-3B9F-402F-94CB-5B3E2B510FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96F857A2-3B9F-402F-94CB-5B3E2B510FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F857A2-3B9F-402F-94CB-5B3E2B510FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F857A2-3B9F-402F-94CB-5B3E2B510FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F857A2-3B9F-402F-94CB-5B3E2B510FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD71ACD5-D0DF-4959-BC2D-F0CC9FAC8A0C}
+	EndGlobalSection
+EndGlobal
